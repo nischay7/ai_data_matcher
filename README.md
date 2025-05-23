@@ -4,17 +4,18 @@
 
 This project implements a scalable, intelligent data matching pipeline using LLMs and vector-based retrieval. The goal is to match records from `input.csv` to the most appropriate entries in `org_data.csv` and `factor_data.csv`, outputting a result that closely aligns with `result.csv`.
 
-We leverage OpenAI's GPT-4 and sentence transformers to integrate retrieval-augmented generation (RAG) for efficient and accurate decision-making.
+We leverage OpenAI's GPT-4o and sentence transformers to integrate retrieval-augmented generation (RAG) for efficient and accurate decision-making.
 
 ---
 
 ## 📁 Project Structure
 
 ```
-├── input.csv                  # Source data to match
-├── org_data.csv               # Organization reference data
-├── factor_data.csv            # Additional matching factors
-├── result.csv                 # Ground truth for validation
+├── data
+    ├── input.csv                  # Source data to match
+    ├── org_data.csv               # Organization reference data
+    ├── factor_data.csv            # Additional matching factors
+    ├── result.csv                 # Ground truth for validation
 ├── results.csv                # Generated output (your submission)
 ├── pipeline.py                # Main execution script
 ├── matcher.py                 # Matching logic using LLM + retrieval
