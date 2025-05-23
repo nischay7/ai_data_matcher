@@ -1,0 +1,103 @@
+Subcategory,Subcategory 2,Supplier,Organization,Sectors,Factor Id,Factor Name
+Packaging,Printed Packaging,Hung Tung,Grand Yick,Packaging Solutions,322110.0,Pulp Mills (Paper Products)
+Resin,PP (Polypropylene),LyondellBasell,LyondellBasell,Chemicals & Plastics,326130.0,Laminated Plastics Plate/Sheet Manufacturing (Plastics)
+Packaging,Master Carton,Grand Yick,Grand Yick,Packaging Solutions,322110.0,Pulp Mills (Paper Products)
+Packaging,Flexible Packaging,Kai Cheng,Grand Yick,Packaging Solutions,322110.0,Pulp Mills (Paper Products)
+Packaging,Blister Pack,Hang Sang Chong,Grand Yick,Packaging Solutions,326130.0,Laminated Plastics Plate/Sheet Manufacturing (Plastics)
+Resin,PVC (Polyvinyl Chloride),Shin-Etsu Chemical,Shin-Etsu Chemical,Chemicals & Plastics,326130.0,Laminated Plastics Plate/Sheet Manufacturing (Plastics)
+Resin,PE (Polyethylene),Dow Chemical,Dow Chemical,Chemicals & Plastics,326130.0,Laminated Plastics Plate/Sheet Manufacturing (Plastics)
+Resin,PET (Polyethylene Terephthalate),Indorama Ventures,Indorama Ventures Public Company Limited,Chemicals & Plastics,326130.0,Laminated Plastics Plate/Sheet Manufacturing (Plastics)
+Electronics,Circuit Boards,Samsung Electronics,Samsung Electronics,Circuit Board Manufacturing,334220.0,Radiotelephone Communications Equipment Manufacturing (Electronics)
+Electronics,Batteries,LithiumWerks,LithiumWerks,Battery Production,335110.0,Lamp Bulb Manufacturing (Lighting Products)
+Textiles,Cotton Fabric,Kai Hing Textile,Kai Hing Textile,Textiles,313210.0,Fiber Yarn Manufacturing
+Textiles,Wool Fabric,Woolmark Company,Woolmark Company,Wool Fabric Production,313210.0,Fiber Yarn Manufacturing
+Textiles,Synthetic Fabric,Toray Industries,Toray Industries,Synthetic Fabric Production,313210.0,Fiber Yarn Manufacturing
+Furniture,Wooden Chairs,IKEA,IKEA,Furniture,321113.0,Sawmills (Wood Products)
+Furniture,Upholstered Sofas,Ashley Furniture Industries,Ashley Furniture Industries,Furniture,337121.0,Upholstered Household Furniture Manufacturing (Furniture)
+Furniture,Metal Tables,Herman Miller,Herman Miller,Furniture,331110.0,Iron and Steel Mills (Metal Products)
+Automotive,Tires,Michelin,Michelin,Tire Manufacturing,811121.0,Automotive Repair Shops General Maintenance Automotive Repair Services
+Automotive,Batteries,Exide Technologies,Exide Technologies,Automotive Battery Production,811121.0,Automotive Repair Shops General Maintenance Automotive Repair Services
+Automotive,Engine Parts,Bosch Automotive Solutions,Bosch Automotive Solutions,Automotive,811121.0,Automotive Repair Shops General Maintenance Automotive Repair Services
+Automotive,Glass Components,Saint-Gobain Sekurit,Saint-Gobain Sekurit,Automotive Glass Manufacturing,811121.0,Automotive Repair Shops General Maintenance Automotive Repair Services
+Dairy Products,Food Products,Fonterra Co-operative Group,Fonterra Co-operative Group,Dairy Product Manufacturing,112120.0,Dairy Cattle and Milk Production
+Beverages,Non-Alcoholic Beverages,Coca-Cola Company,Coca-Cola Company,Food & Beverage,445120.0,Beverage Stores Retailing (Food/Beverages Sales)
+Food Products,Frozen Foods,Nestlé S.A.,Nestlé S.A.,Food & Beverage,311710.0,Frozen Food Manufacturing
+Food Products,Bakery Items,Kraft Heinz Company,Kraft Heinz Company,Food & Beverage,311230.0,Bakery Product Manufacturing
+Pharmaceuticals,Vaccines,Pfizer Inc.,Pfizer Inc.,Vaccine Production,325180.0,Fertilizer Manufacturing (Agricultural Chemicals)
+Medical Devices,Medical Device Manufacturing,Medtronic PLC,Medtronic PLC,Pharmaceuticals,621111.0,Hospitals General Medical/Surgical Care
+Pharmaceuticals,Pain Relievers,GSK (GlaxoSmithKline),GSK (GlaxoSmithKline),Pharmaceutical Production,621111.0,Hospitals General Medical/Surgical Care
+Pharmaceuticals,Vitamins,Bayer AG,Bayer AG,Vitamin Production,325180.0,Fertilizer Manufacturing (Agricultural Chemicals)
+Construction Materials,Cement,LafargeHolcim Ltd.,LafargeHolcim Ltd.,Cement Production,327310.0,Cement Manufacturing (Construction Materials)
+Construction Materials,Steel Sheets,Tata Steel Limited,Tata Steel Limited,Steel Sheet Production,331110.0,Iron and Steel Mills (Metal Products)
+Construction Materials,Plywood,Kronospan Worldwide,Kronospan Worldwide,Plywood Production,321113.0,Sawmills (Wood Products)
+Construction Materials,Bricks,Wienerberger AG,Wienerberger AG,Brick Manufacturing,327310.0,Cement Manufacturing (Construction Materials)
+Technology,Laptops,Dell Technologies Inc.,Dell Technologies Inc.,Technology,511210.0,Software Publishers
+Technology,Smartphones,Xiaomi Corporation,Xiaomi Corporation,Smartphone Manufacturing,334220.0,Radiotelephone Communications Equipment Manufacturing (Electronics)
+Technology,Software Solutions,SAP SE,SAP SE,Technology,511210.0,Software Publishers
+Technology,Cloud Services,AWS (Amazon Web Services),AWS (Amazon Web Services),Cloud Services,518210.0,System Hosting/Data Processing Services
+Energy,Solar Panels,Jinko Solar Holding Co. Ltd.,Jinko Solar Holding Co. Ltd.,Solar Panel Production,221110.0,Electric Power Generation
+Energy,Batteries for Storage,Tesla Energy Solutions,Tesla Energy Solutions,Battery Storage Systems,493120.0,Warehousing/Storage Facilities
+Energy,Fuel Cells,Ballard Power Systems Inc.,Ballard Power Systems Inc.,Fuel Cell Production,221110.0,Electric Power Generation
+Energy,Lubricants,Shell Global Solutions International BV,Shell Global Solutions International BV,Lubricant Production,324110.0,Paving Materials Manufacturing (Petroleum Refining)
+Clothing,Sportswear,Nike Inc.,Nike Inc.,Sportswear Manufacturing,315240.0,Knit Apparel Manufacturing
+Clothing,Casual Wear,H&M Group,H&M Group,Apparel,315240.0,Knit Apparel Manufacturing
+Clothing,Luxury Apparel,LVMH Moët Hennessy Louis Vuitton SE,LVMH Moët Hennessy Louis Vuitton SE,Luxury Apparel Manufacturing,315240.0,Knit Apparel Manufacturing
+Clothing,Fashion Accessories,Zara SA (Inditex),Zara SA (Inditex),Apparel,315240.0,Knit Apparel Manufacturing
+Beauty Products,Cosmetics,L'Oréal Group,L'Oréal Group,Cosmetics Manufacturing,,
+Beauty Products,Hygiene Products,P&G (Procter & Gamble),P&G (Procter & Gamble),Hygiene Product Manufacturing,812930.0,Laundry/Dry Cleaning Services Personal Care Services
+Beauty Products,Skin Care,Nivea (Beiersdorf AG),Nivea (Beiersdorf AG),Skin Care Product Manufacturing,812930.0,Laundry/Dry Cleaning Services Personal Care Services
+Beauty Products,Hair Care,TRESemmé (Unilever),TRESemmé (Unilever),Hair Care Product Manufacturing,812930.0,Laundry/Dry Cleaning Services Personal Care Services
+Agriculture,Fertilizers,Yara International ASA,Yara International ASA,Fertilizer Production,325180.0,Fertilizer Manufacturing (Agricultural Chemicals)
+Agriculture,Pesticides,BASF SE Agriculture Solutions Division,BASF SE Agriculture Solutions Division,Pesticide Production,115110.0,Support Activities for Crop Production
+Agriculture,Irrigation Equipment,Jain Irrigation Systems Ltd.,Jain Irrigation Systems Ltd.,Irrigation Equipment Manufacturing,221310.0,Water Supply and Irrigation Systems
+Agriculture,Farm Machinery,John Deere Co.,John Deere Co.,Farm Machinery Production,333120.0,Farm Machinery Manufacturing (Agriculture Equipment)
+Aerospace,Aviation Components,Boeing Company,Boeing Company,Aviation Component Manufacturing,336120.0,Aerospace Products Manufacturing (Aircraft Engines/Parts)
+Aerospace,Aerospace Materials,Rolls-Royce Holdings PLC,Rolls-Royce Holdings PLC,Aerospace Material Production,336120.0,Aerospace Products Manufacturing (Aircraft Engines/Parts)
+Aerospace,Navigational Systems,Honeywell Aerospace Inc.,Honeywell Aerospace Inc.,Aerospace,336120.0,Aerospace Products Manufacturing (Aircraft Engines/Parts)
+Aerospace,Turbine Engines,GE Aviation Systems LLC,GE Aviation Systems LLC,Aerospace,336120.0,Aerospace Products Manufacturing (Aircraft Engines/Parts)
+Healthcare Services,Hospitals,Mayo Clinic Health System,Mayo Clinic Health System,Hospital Services,621111.0,Hospitals General Medical/Surgical Care
+Healthcare Services,Laboratories,LabCorp Diagnostics Inc.,LabCorp Diagnostics Inc.,Laboratory Services,621111.0,Hospitals General Medical/Surgical Care
+Healthcare Services,Nursing Homes,Kaiser Permanente Healthcare Group Inc.,Kaiser Permanente Healthcare Group Inc.,Nursing Home Services,622310.0,Nursing Care Facilities Residential Care Services
+Mental Health Services,Healthcare Services,Cigna Corporation Behavioral Health Division,Cigna Corporation Behavioral Health Division,Healthcare Services,621111.0,Hospitals General Medical/Surgical Care
+Mining & Metals,Iron Ore,Rio Tinto Group Mining Division,Rio Tinto Group Mining Division,Iron Ore Mining,212210.0,Iron Ore Mining
+Mining & Metals,Copper Ore,BHP Group Limited Copper Operations,BHP Group Limited Copper Operations,Copper Ore Mining,212230.0,Copper Ore Mining
+Mining & Metals,Zinc Ore,Hindustan Zinc Limited,Hindustan Zinc Limited,Zinc Ore Mining,213110.0,Support Activities for Mining
+Mining & Metals,Gemstones,Gemfields PLC,Gemfields PLC,Gemstone Mining,212310.0,Stone Mining and Quarrying
+Transportation,Railway Equipment,Siemens Mobility GmbH,Siemens Mobility GmbH,Railway Equipment Manufacturing,482112.0,Rail Transportation Services (Logistics/Railways)
+Transportation,Aviation Equipment,Bombardier Aerospace,Bombardier Aerospace,Aviation Equipment Manufacturing,336120.0,Aerospace Products Manufacturing (Aircraft Engines/Parts)
+Transportation,Cargo Containers,MOL Logistics Co. Ltd.,MOL Logistics Co. Ltd.,Transportation,488510.0,Freight Forwarding Services
+Fleet Management Software,Transportation,Zebra Technologies Corporation,Zebra Technologies Corporation,Transportation,484121.0,Mixed Freight Trucking Services (Logistics/Trucking Services)
+Education Supplies,Books,Pearson Education Limited,Pearson Education Limited,Book Publishing,511210.0,Software Publishers
+Education Supplies,Laboratory Equipment,Fisher Scientific International LLC,Fisher Scientific International LLC,Laboratory Equipment Manufacturing,611310.0,Colleges/Universities Education Services
+Education Supplies,Digital Learning Tools,Kahoot! AS,Kahoot! AS,Digital Learning Tools,511210.0,Software Publishers
+Education Supplies,Furniture for Schools,Virco Manufacturing Corporation,Virco Manufacturing Corporation,School Furniture Manufacturing,337121.0,Upholstered Household Furniture Manufacturing (Furniture)
+Entertainment Services,Gaming Consoles,Sony Interactive Entertainment LLC,Sony Interactive Entertainment LLC,Gaming Console Manufacturing,339910.0,Toy/Game/Children's Vehicle Manufacturing (Recreational Goods)
+Videogames,Videogame Production,Nintendo Co. Ltd.,Nintendo Co. Ltd.,Entertainment Services,511210.0,Software Publishers
+Entertainment Services,Movie Production Equipment,Walt Disney Studios Motion Pictures LLC,Walt Disney Studios Motion Pictures LLC,Entertainment Services,512110.0,Motion Picture Production
+Entertainment Services,Musical Instruments,Yamaha Corporation Music Division,Yamaha Corporation Music Division,Musical Instrument Manufacturing,711211.0,Sports Teams/Clubs Operations Entertainment/Recreation
+Hospitality Services,Luxury Hotels,Ritz-Carlton Hotel Company LLC,Ritz-Carlton Hotel Company LLC,Luxury Hotel Services,721110.0,Lodging Facilities Hotels/Motels Operations Recreation/Tourism
+Hospitality Services,Budget Hotels,OYO Rooms Private Limited,OYO Rooms Private Limited,Budget Hotel Services,721110.0,Lodging Facilities Hotels/Motels Operations Recreation/Tourism
+Catering Equipment,Hospitality Services,Hobart Food Equipment Group LLC,Hobart Food Equipment Group LLC,Catering Equipment Manufacturing,333120.0,Farm Machinery Manufacturing (Agriculture Equipment)
+Tourism Packages,Hospitality Services,TUI Group Travel Division,TUI Group Travel Division,Tourism Package Services,721110.0,Lodging Facilities Hotels/Motels Operations Recreation/Tourism
+Retail,E-commerce Platforms,Amazon.com Inc. Retail Division,Amazon.com Inc. Retail Division,Retail,452210.0,Warehouse Clubs/Superstores Retailing (General Merchandise Sales)
+Retail,Grocery Chains,Walmart Inc. Grocery Operations Unit,Walmart Inc. Grocery Operations Unit,Grocery Retail,452210.0,Warehouse Clubs/Superstores Retailing (General Merchandise Sales)
+Retail,Fashion Retailers,Zalando SE Fashion Marketplace Division,Zalando SE Fashion Marketplace Division,Fashion Retail,452210.0,Warehouse Clubs/Superstores Retailing (General Merchandise Sales)
+Luxury Goods Retail,Jewelry Retail,Tiffany & Co. Jewelry Operations Unit,Tiffany & Co. Jewelry Operations Unit,Retail,453930.0,Flea Markets Retailing (Miscellaneous Merchandise Sales)
+Telecommunications Network Equipment,Nokia Corporation Telecommunications Division,nan,Nokia Corporation Telecommunications Division,Telecommunications,334220.0,Radiotelephone Communications Equipment Manufacturing (Electronics)
+Telecommunications Mobile Phones,Huawei Technologies Co. Ltd.,nan,Huawei Technologies Co. Ltd.,Mobile Phone Manufacturing,334220.0,Radiotelephone Communications Equipment Manufacturing (Electronics)
+Telecommunications,Satellite Communication Systems,nan,Viasat Inc. Satellite Communications Unit,Telecommunications,517410.0,Satellite Telecommunications
+Telecommunications,Internet Service Providers,nan,Vodafone Group PLC Internet Operations Unit,Telecommunications,334220.0,Radiotelephone Communications Equipment Manufacturing (Electronics)
+Sports Equipment Outdoor Gear,Sportswear and Equipment,nan,Puma SE Sportswear and Equipment Division,Sportswear Manufacturing,451110.0,Sporting Goods Stores Retailing (Recreational Goods Sales)
+Sports Equipment,Indoor Fitness Equipment,nan,Peloton Interactive Inc. Fitness Division,Fitness Equipment Manufacturing,451110.0,Sporting Goods Stores Retailing (Recreational Goods Sales)
+Sports Equipment,Adventure Gear,nan,Mammut Sports Group AG Adventure Gear Division,Adventure Gear Manufacturing,451110.0,Sporting Goods Stores Retailing (Recreational Goods Sales)
+Sports Equipment,Team Sports Gear,nan,Umbro International Team Sports Division,Sports Equipment,451110.0,Sporting Goods Stores Retailing (Recreational Goods Sales)
+Pharmaceuticals,Antibiotics,Merck & Co.,Merck & Co.,Pharmaceutical Manufacturing,621111.0,Hospitals General Medical/Surgical Care
+Pharmaceuticals,Antivirals,Gilead Sciences,Gilead Sciences,Pharmaceutical Manufacturing,325180.0,Fertilizer Manufacturing (Agricultural Chemicals)
+Pharmaceuticals,Antifungals,Pfizer Inc.,Pfizer Inc.,Pharmaceuticals,325120.0,Industrial Gas Manufacturing (Chemicals)
+Pharmaceuticals,Antiparasitics,Sanofi,Sanofi,Pharmaceutical Manufacturing,325180.0,Fertilizer Manufacturing (Agricultural Chemicals)
+Pharmaceuticals,Antineoplastics,Roche,Roche,Pharmaceutical Manufacturing,325120.0,Industrial Gas Manufacturing (Chemicals)
+Pharmaceuticals,Anticoagulants,Bristol-Myers Squibb,Bristol-Myers Squibb,Pharmaceutical Manufacturing,325120.0,Industrial Gas Manufacturing (Chemicals)
+Pharmaceuticals,Antidepressants,Eli Lilly and Company,Eli Lilly and Company,Pharmaceutical Manufacturing,325120.0,Industrial Gas Manufacturing (Chemicals)
+Pharmaceuticals,Antipsychotics,AstraZeneca,AstraZeneca,Pharmaceutical Manufacturing,325120.0,Industrial Gas Manufacturing (Chemicals)
+Pharmaceuticals,Antidiabetics,Novo Nordisk,Novo Nordisk,Pharmaceutical Manufacturing,621111.0,Hospitals General Medical/Surgical Care
+Pharmaceuticals,Antihypertensives,Novartis,Novartis,Pharmaceutical Manufacturing,325180.0,Fertilizer Manufacturing (Agricultural Chemicals)
